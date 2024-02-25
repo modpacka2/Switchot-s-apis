@@ -1,0 +1,6 @@
+switchot api
+switchotapi
+1.1
+Switchot
+a lot of api
+Made with MCreator plugin builder by NerdyPuzzle

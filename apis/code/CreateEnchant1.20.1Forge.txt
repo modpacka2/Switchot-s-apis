@@ -1,0 +1,8 @@
+    repositories {
+            maven {
+              url = "https://www.cursemaven.com"
+            }
+          }
+    dependencies {
+    implementation fg.deobf("curse.maven:createenchant-688768:5131586")
+     }
